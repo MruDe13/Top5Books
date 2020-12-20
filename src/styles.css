@@ -1,0 +1,45 @@
+.NavBar {
+  color: red;
+  background-color: black;
+  padding: 1rem;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 0.2px;
+  word-spacing: 0.4px;
+  margin: auto;
+  font-size: 10vh;
+}
+
+.GenreList {
+  display: inline-flex;
+  margin: auto;
+  list-style-type: none;
+  text-align: center;
+  padding: 1rem;
+}
+.GenreContent {
+  margin: auto;
+  text-align: center;
+}
+.Genre {
+  padding: 1rem;
+  background-color: black;
+  color: red;
+  border-radius: 0.5rem;
+  margin: 4px;
+  text-align: center;
+}
+
+h3 {
+  margin-block-end: 0.2rem;
+}
+
+.Book {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin: 4px;
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: black;
+  color: red;
+}
