@@ -182,7 +182,7 @@ class Top5Books extends React.Component {
                   <div>
                     <h3>{Title}</h3>
                     <span>{Author}</span>
-                    <br style={{ padding: "0.1rem", color: "red" }}></br>
+                    <hr style={{ padding: "0.1rem", color: "red" }}></hr>
                     <p>{Description}</p>
                   </div>
                 </li>
